@@ -2,6 +2,6 @@
 
 GRUPO N°5
 
-Miguel: 
+Miguel Hevia:
 José Veliz: 
 Lorena Sayen: www.tiendarebelde.cl
