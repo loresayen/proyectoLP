@@ -14,7 +14,7 @@ a {
 }
 
 .contenedor {
-	width: 90%;
+	width: 89%;
 	max-width: 800px;
 	margin: auto;
 }
@@ -232,3 +232,4 @@ footer .creado-por a:hover {text-decoration: underline;}
 	header .barra-busqueda {
 		width: 100%;
 	}
+}
