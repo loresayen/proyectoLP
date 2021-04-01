@@ -1,8 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=New+Tegomin&display=swap');
 
+* {
+
+	margin: 10px;
+}
 .bg-img {
     /* The image used */
-    background-image: url("Assets/img/TiendaRebelde.jpg");
+    background-image: url("Assets/img/TiendaRebelde.png");
 
     min-height: 380px;
 
@@ -45,23 +49,6 @@
     color: black;
 }
 
-
-.contenedor{
-    position: relative;
-    display: inline-block;
-    text-align: center;
-}
-.texto-encima{
-    position: absolute;
-    top: 10px;
-    left: 10px;
-}
-.centrado{
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
 
 h1 {
 
